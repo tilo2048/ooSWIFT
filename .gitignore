@@ -1,0 +1,6 @@
+# Exclude Eclipse project files
+.project
+.classpath
+.settings
+# Exclude Maven build dir
+target/
